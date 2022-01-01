@@ -1,12 +1,12 @@
 {
-  "name": "TG File Sharing Bot",
+  "name": "cute-boy",
   "description": "file sharing bot store posts and it can access by special links",
   "keywords": [
     "telegram",
     "file",
     "sharing"
   ],
-  "repository": "https://github.com/CodeXBotz/File-Sharing-Bot",
+  "repository": "https://github.com/cute-boy/File-Sharing-Bot",
   "logo": "https://telegra.ph/file/14d3013fda21281c54b61.jpg",
   "env": {
     "TG_BOT_TOKEN": {
@@ -14,23 +14,23 @@
       "value": ""
     },
     "OWNER_ID": {
-      "description": "An integer of consisting of your owner ID",
+      "description": "isi pake id lo atau admin lo",
       "value": "1250450587"
     },
     "APP_ID":{
-      "description": "your app id, take it from my.telegram.org",
+      "description": "pake ip id elo cari sendiri",
       "value": ""
     },
     "API_HASH":{
-      "description": "your api hash, take it from my.telegram.org",
+      "description": "pake ip hash elo cari sendiri",
       "value": ""
     },
     "CHANNEL_ID":{
-      "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
+      "description": "ini buat id data base yahh kontol",
       "value": "-100"
     },
     "FORCE_SUB_CHANNEL":{
-      "description": "id of the channel or group, if you want enable force sub feature else put 0",
+      "description": "ini buat id foursubs nya yah kontol kalo nga mau auto join pake 0",
       "value": "0"
     },
     "START_MESSAGE": {
@@ -39,7 +39,7 @@
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\n<b>You need to join in my Channel/Group to use me\n\nKindly Please join Channel</b>"
+      "value": "Hello {first}\n\n<b>masuk dulu ke chenel/grup nya\n\nKindly join dulu baru bisa nonton</b>"
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
