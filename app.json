@@ -39,7 +39,7 @@
     },
     "FORCE_SUB_MESSAGE": {
       "description": "Optional: Force Sub message of bot, use HTML parsemode format",
-      "value": "Hello {first}\n\n<b>masuk dulu ke chenel/grup nya\n\nKindly join dulu baru bisa nonton</b>"
+      "value": "Hello {first}\n\n<b>masuk dulu ke chenel/grup nanti balik lagi ke sini pencet try again\n\n join dulu baru bisa nonton kalo nga join nga bisa nonton</b>"
     },
     "ADMINS": {
       "description": "A space separated list of user_ids of Admins, they can only create links",
